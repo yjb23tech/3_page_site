@@ -1,7 +1,8 @@
 .nav-header {
-    background-color: orange;
+    background-color: purple;
 }
 
 .nav-header > h1 {
+    text-align: center;
     color: whitesmoke;
 }
