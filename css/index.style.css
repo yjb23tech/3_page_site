@@ -1,0 +1,7 @@
+.nav-header {
+    background-color: orange;
+}
+
+.nav-header > h1 {
+    color: whitesmoke;
+}
